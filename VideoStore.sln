@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore", "VideoStore\VideoStore.csproj", "{45FF2F87-13D2-4F63-9E95-FB4CB2945493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStoreTests", "VideoStoreTests\VideoStoreTests.csproj", "{D4177A29-42A6-4C62-B9C3-A0E9104E0FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FF2F87-13D2-4F63-9E95-FB4CB2945493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FF2F87-13D2-4F63-9E95-FB4CB2945493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FF2F87-13D2-4F63-9E95-FB4CB2945493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FF2F87-13D2-4F63-9E95-FB4CB2945493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4177A29-42A6-4C62-B9C3-A0E9104E0FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4177A29-42A6-4C62-B9C3-A0E9104E0FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4177A29-42A6-4C62-B9C3-A0E9104E0FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4177A29-42A6-4C62-B9C3-A0E9104E0FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
